@@ -36,7 +36,7 @@ Using Entra ID Sign-in logs, I successfully identified the Attacker's details:
 
 ### 4. Professional Reporting
 A comprehensive security report was generated to document the attack story and impact.
-📄 **[Download Full Incident Report (PDF)](./BruteForce-Lab/Incident_1.pdf)**
+📄 **[Download Full Incident Report (PDF)](./Reports/Incident_1.pdf)**
 
 ## Key Findings
 * **Ingestion Delay:** Observed the real-world challenge of log ingestion latency between Entra ID and Sentinel.
